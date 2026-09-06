@@ -8,5 +8,5 @@ Whatever's left over goes to building small software for the fun of it.
 
 **Now:** [scottchanatry.com](https://scottchanatry.com) — hand-typed HTML, CSS, and ~120 lines of vanilla JS. There's a crayon button. You can draw on the page. Really. ([source](https://github.com/scottchanatry/scottchanatry.com))
 
-**Elsewhere:** [Google Scholar](https://scholar.google.com/citations?user=lvxDxZMAAAAJ) · [Semantic Scholar](https://www.semanticscholar.org/author/Scott-Chanatry/52191114) · [Crunchbase](https://www.crunchbase.com/person/scott-chanatry) · [LinkedIn](https://www.linkedin.com/in/scottchanatry)
+**Elsewhere:** [Google Scholar](https://scholar.google.com/citations?user=lvxDxZMAAAAJ) · [Semantic Scholar](https://www.semanticscholar.org/author/Scott-Chanatry/52191114) · [LinkedIn](https://www.linkedin.com/in/scottchanatry)
 
